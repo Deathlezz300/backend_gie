@@ -5,7 +5,7 @@
       "titulo": "Matar a un ruiseñor",
       "autor": "Harper Lee",
       "genero": "Ficción",
-      "año_publicacion": 1960,
+      "publicacion": 1960,
       "resumen": "Una novela sobre los serios problemas de la violación y la desigualdad racial."
     },
     {
@@ -13,7 +13,7 @@
       "titulo": "1984",
       "autor": "George Orwell",
       "genero": "Distopía",
-      "año_publicacion": 1949,
+      "publicacion": 1949,
       "resumen": "Una novela que presenta una imagen aterradora de una sociedad futura."
     },
     {
@@ -21,7 +21,7 @@
       "titulo": "Orgullo y prejuicio",
       "autor": "Jane Austen",
       "genero": "Romance",
-      "año_publicacion": 1813,
+      "publicacion": 1813,
       "resumen": "Una novela romántica que traza el desarrollo emocional de la protagonista Elizabeth Bennet."
     },
     {
@@ -29,7 +29,7 @@
       "titulo": "El gran Gatsby",
       "autor": "F. Scott Fitzgerald",
       "genero": "Tragedia",
-      "año_publicacion": 1925,
+      "publicacion": 1925,
       "resumen": "Una novela sobre el sueño americano y la caída de aquellos que intentan alcanzar sus metas ilusorias."
     },
     {
@@ -37,15 +37,15 @@
       "titulo": "Moby-Dick",
       "autor": "Herman Melville",
       "genero": "Aventura",
-      "año_publicacion": 1851,
+      "publicacion": 1851,
       "resumen": "Una novela sobre el viaje del barco ballenero Pequod."
     },
     {
       "id": 6,
-      "titulo": "Cien años de soledad",
+      "titulo": "Cien  de soledad",
       "autor": "Gabriel García Márquez",
       "genero": "Realismo mágico",
-      "año_publicacion": 1967,
+      "publicacion": 1967,
       "resumen": "La historia épica de la familia Buendía en el pueblo ficticio de Macondo."
     },
     {
@@ -53,7 +53,7 @@
       "titulo": "Don Quijote de la Mancha",
       "autor": "Miguel de Cervantes",
       "genero": "Aventura",
-      "año_publicacion": 1605,
+      "publicacion": 1605,
       "resumen": "Las aventuras y desventuras del caballero Don Quijote y su fiel escudero Sancho Panza."
     },
     {
@@ -61,7 +61,7 @@
       "titulo": "Crimen y castigo",
       "autor": "Fiódor Dostoyevski",
       "genero": "Ficción psicológica",
-      "año_publicacion": 1866,
+      "publicacion": 1866,
       "resumen": "La lucha interna de un joven estudiante que comete un asesinato."
     },
     {
@@ -69,7 +69,7 @@
       "titulo": "La Odisea",
       "autor": "Homero",
       "genero": "Épico",
-      "año_publicacion": "c. siglo VIII a.C.",
+      "publicacion": "c. siglo VIII a.C.",
       "resumen": "La épica aventura de Odiseo en su largo viaje de regreso a casa tras la guerra de Troya."
     },
     {
@@ -77,7 +77,7 @@
       "titulo": "El señor de los anillos",
       "autor": "J.R.R. Tolkien",
       "genero": "Fantasía",
-      "año_publicacion": 1954,
+      "publicacion": 1954,
       "resumen": "La lucha épica por destruir el Anillo Único y derrotar al malvado Sauron."
     }
   ]
